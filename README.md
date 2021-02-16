@@ -1,6 +1,6 @@
 App Screenshots
 
-![Software Demo GIF](https://github.com/MrTee99/QuickNews-WindowsApp/blob/main/Screen%20Shots%20and%20Demo%20Video/Demo%20GIF/SoftwareDemo_GIF.gif)
+![Software Screenshot 01](https://github.com/MrTee99/Budget-Manager-Android-App/blob/main/Screenshots/1.png)
 
 It is a native android application developed using Kotlin.
 It uses uses Android Room to store data.
