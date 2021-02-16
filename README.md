@@ -1,6 +1,7 @@
 App Screenshots
 
-![Software Screenshot 01](https://github.com/MrTee99/Budget-Manager-Android-App/blob/main/Screenshots/1.png)![Software Screenshot 02](https://github.com/MrTee99/Budget-Manager-Android-App/blob/main/Screenshots/2.png)
+![Software Screenshot 01](https://github.com/MrTee99/Budget-Manager-Android-App/blob/main/Screenshots/1.png)
+![Software Screenshot 02](https://github.com/MrTee99/Budget-Manager-Android-App/blob/main/Screenshots/2.png)
 
 It is a native android application developed using Kotlin.
 It uses uses Android Room to store data.
